@@ -1,0 +1,48 @@
+\documentclass[letterpaper,10pt]{report}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fullpage}
+\usepackage[spanish, activeacute]{babel}
+\usepackage{csquotes}
+\usepackage{url}
+\usepackage{newcent}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{makeidx}
+\usepackage{vmargin}
+\usepackage{multirow}
+
+\usepackage{pdfpages}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{ragged2e}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[hidelinks]{hyperref}
+\usepackage{natbib} %bibliografia
+\usepackage[spanish]{babel}
+\usepackage{longtable}
+\graphicspath{imagenes/}
+\makeindex
+
+\begin{document}
+	\include {portada}
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	\pagenumbering{arabic}
+	\include{capitulos/capitulo1}
+	\include{capitulos/capitulo2}
+	\include{capitulos/capitulo3}
+	\include{capitulos/capitulo4}
+	\include{capitulos/capitulo5}
+	\include{capitulos/capitulo6}
+	\include{capitulos/capitulo7}
+	\renewcommand{\bibname}{Referencias}
+	\bibliographystyle{apalike}
+	\bibliography{bibliografia}
+\end{document}
