@@ -1,5 +1,9 @@
 \begin{thebibliography}{}
 
+\bibitem[Alvarez and Alc{\'a}zar, 2014]{alvarez2014introduccion}
+Alvarez, M. and Alc{\'a}zar, I. (2014).
+\newblock Introducci{\'o}n a git y github.
+
 \bibitem[Camacho and Lara, 2011]{camacho2011m}
 Camacho, M. and Lara, T. (2011).
 \newblock M-learning en espa{\~n}a, portugal y am{\'e}rica latina.
@@ -13,12 +17,22 @@ Dykes, G. and Knight, H.~R. (2012).
 \newblock {\em United Nations Educational, Scientific and Cultural Organization
   (UNESCO), UNESCO Working Paper Series on Mobile Learning, France}.
 
+\bibitem[Izquierdo, 2007]{izquierdo2007introduccion}
+Izquierdo, L.~R. (2007).
+\newblock Introducci{\'o}n a la programaci{\'o}n orientada a objetos.
+\newblock {\em Publicaci{\'o}n on line}.
+
 \bibitem[Olivares~Carmona et~al., 2016]{olivares2016tic}
 Olivares~Carmona, K.~M., Angulo~Armenta, J., Torres~Gastel{\'u}, C.~A., and
   Madrid~Garc{\'\i}a, E.~M. (2016).
 \newblock Las tic en educaci{\'o}n: metaan{\'a}lisis sobre investigaci{\'o}n y
   l{\'\i}neas emergentes en m{\'e}xico.
 \newblock {\em Apertura (Guadalajara, Jal.)}, 8(2):100--115.
+
+\bibitem[Owens and Allen, 2010]{owens2010sqlite}
+Owens, M. and Allen, G. (2010).
+\newblock {\em SQLite}.
+\newblock Springer.
 
 \bibitem[Palacios et~al., 2011]{palaciostics}
 Palacios, G. E.~D., Guti{\'e}rrez, D., and Vargas, E.~V. (2011).
@@ -28,6 +42,11 @@ Palacios, G. E.~D., Guti{\'e}rrez, D., and Vargas, E.~V. (2011).
 Spigariol, L. and Passerini, N. (2013).
 \newblock Ense{\~n}ando a programar en la orientaci{\'o}n a objetos.
 \newblock {\em UTN FRC, C{\'o}rdoba, Argentina}.
+
+\bibitem[Studio, 2016]{studio2016conoce}
+Studio, A. (2016).
+\newblock Conoce android studio.
+\newblock {\em Recuperado de: https://developer.android.com/studio/index.html}.
 
 \bibitem[Traxler, 2007]{traxler2007defining}
 Traxler, J. (2007).
