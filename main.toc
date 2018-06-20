@@ -1,23 +1,26 @@
 \select@language {spanish}
-\contentsline {chapter}{\numberline {1}Introducci'on}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Problematica}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Ingenier\IeC {\'\i }a es el \IeC {\'a}rea con mayor tasa de abandono escolar universitario, particularmente aquellas vinculadas con la inform\IeC {\'a}tica}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Problemas del aprendizaje de la programaci\IeC {\'o}n orientada a objetos}{2}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}Objetivo general}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Objetivos espec'ificos}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}Justificaci\IeC {\'o}n}{3}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Las TIC en la educaci'on}{3}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}M-Learning en la educaci'on}{3}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}La importancia de la programaci'on orientada a objetos}{4}{subsection.1.4.3}
-\contentsline {chapter}{\numberline {2}Estado del arte}{5}{chapter.2}
-\contentsline {chapter}{\numberline {3}Marco te\IeC {\'o}rico}{7}{chapter.3}
-\contentsline {chapter}{\numberline {4}Desarrollo}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}Recursos}{9}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Recursos humanos}{9}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Recursos materiales}{9}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Recursos tecnol\IeC {\'o}gicos}{9}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Recursos administrativos}{10}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Diagrama de Gantt}{10}{section.4.2}
-\contentsline {section}{\numberline {4.3}Historias de usuario}{10}{section.4.3}
-\contentsline {section}{\numberline {4.4}Grafica de quemado}{12}{section.4.4}
-\contentsline {chapter}{\numberline {5}Resultados}{13}{chapter.5}
+\contentsline {chapter}{\numberline {1}Introducci'on}{\es@scroman {iv}}{chapter.1}
+\contentsline {section}{\numberline {1.1}Problematica}{\es@scroman {iv}}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Ingenier\IeC {\'\i }a es el \IeC {\'a}rea con mayor tasa de abandono escolar universitario, particularmente aquellas vinculadas con la inform\IeC {\'a}tica}{\es@scroman {iv}}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Problemas del aprendizaje de la programaci\IeC {\'o}n orientada a objetos}{\es@scroman {iv}}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Objetivo general}{\es@scroman {v}}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objetivos espec'ificos}{\es@scroman {v}}{section.1.3}
+\contentsline {section}{\numberline {1.4}Justificaci\IeC {\'o}n}{\es@scroman {v}}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Las TIC en la educaci'on}{\es@scroman {v}}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}M-Learning en la educaci'on}{\es@scroman {v}}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}La importancia de la programaci'on orientada a objetos}{\es@scroman {vi}}{subsection.1.4.3}
+\contentsline {chapter}{\numberline {2}Estado del arte}{1}{chapter.2}
+\contentsline {chapter}{\numberline {3}Marco te\IeC {\'o}rico}{3}{chapter.3}
+\contentsline {chapter}{\numberline {4}Desarrollo}{5}{chapter.4}
+\contentsline {section}{\numberline {4.1}Recursos}{5}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Recursos humanos}{5}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Recursos materiales}{5}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Recursos tecnol\IeC {\'o}gicos}{5}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Recursos administrativos}{6}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Diagrama de Gantt}{6}{section.4.2}
+\contentsline {section}{\numberline {4.3}Encuesta}{6}{section.4.3}
+\contentsline {section}{\numberline {4.4}Historias de usuario}{8}{section.4.4}
+\contentsline {section}{\numberline {4.5}Grafica de quemado}{10}{section.4.5}
+\contentsline {section}{\numberline {4.6}Maquetado}{11}{section.4.6}
+\contentsline {section}{\numberline {4.7}Plan de pruebas}{11}{section.4.7}
+\contentsline {chapter}{\numberline {5}Resultados}{12}{chapter.5}
