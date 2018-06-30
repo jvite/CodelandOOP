@@ -22,6 +22,11 @@ Izquierdo, L.~R. (2007).
 \newblock Introducci{\'o}n a la programaci{\'o}n orientada a objetos.
 \newblock {\em Publicaci{\'o}n on line}.
 
+\bibitem[Joyanes~Aguilar, 1996]{joyanes1996programacion}
+Joyanes~Aguilar, L. (1996).
+\newblock {\em Programaci{\'o}n orientada a objetos}.
+\newblock Number 004.652. 5. McGraw-Hill Interamericana,.
+
 \bibitem[Olivares~Carmona et~al., 2016]{olivares2016tic}
 Olivares~Carmona, K.~M., Angulo~Armenta, J., Torres~Gastel{\'u}, C.~A., and
   Madrid~Garc{\'\i}a, E.~M. (2016).
@@ -54,5 +59,10 @@ Traxler, J. (2007).
   finger writes and having writ....
 \newblock {\em The International Review of Research in Open and Distributed
   Learning}, 8(2).
+
+\bibitem[Velarde~de Barraza et~al., 2006]{velarde2006introduccion}
+Velarde~de Barraza, O., Murillo~de Vel{\'a}squez, M., G{\'o}mez~de
+  Mel{\'e}ndez, L., and Castillo~de Krol, F. (2006).
+\newblock Introducci{\'o}n a la programaci{\'o}n orientada a objetos.
 
 \end{thebibliography}
