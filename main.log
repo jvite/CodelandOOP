@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.6.11)  3 JUL 2018 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.6.11)  3 JUL 2018 11:41
 entering extended mode
 **./main.tex
 (main.tex
@@ -2646,36 +2646,168 @@ Package babel Info: Redefining spanish shorthand "?
 ]
 \openout2 = `anexos.aux'.
 
- (anexos.tex)
+ (anexos.tex
+<cdp.pdf, id=577, 614.295pt x 794.97pt>
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf>
+Package pdftex.def Info: cdp.pdf  used on input line 2.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf>
+Package pdftex.def Info: cdp.pdf  used on input line 2.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<cdp.pdf, id=580, page=1, 614.295pt x 794.97pt>
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 1>
+Package pdftex.def Info: cdp.pdf , page1 used on input line 2.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 1>
+Package pdftex.def Info: cdp.pdf , page1 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 2.
  [19
 
 
 
-] (main.bbl
+]
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 1>
+Package pdftex.def Info: cdp.pdf , page1 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 1>
+Package pdftex.def Info: cdp.pdf , page1 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 1>
+Package pdftex.def Info: cdp.pdf , page1 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+ [20 <./cdp.pdf>]
+<cdp.pdf, id=628, page=2, 614.295pt x 794.97pt>
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 2>
+Package pdftex.def Info: cdp.pdf , page2 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 2>
+Package pdftex.def Info: cdp.pdf , page2 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 2>
+Package pdftex.def Info: cdp.pdf , page2 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+ [21 <./cdp.pdf>]
+<cdp.pdf, id=634, page=3, 614.295pt x 794.97pt>
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 3>
+Package pdftex.def Info: cdp.pdf , page3 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 3>
+Package pdftex.def Info: cdp.pdf , page3 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: cdp.pdf Graphic file (type pdf)
+<use cdp.pdf, page 3>
+Package pdftex.def Info: cdp.pdf , page3 used on input line 2.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 2.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 2.
+ [22 <./cdp.pdf>])
+(main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 52--55
 []\T1/pnc/m/n/10 Studio, A. (2016).  Co-no-ce an-droid stu-dio.  \T1/pnc/m/it/1
 0 Re-cu-pe-ra-do de:
@@ -2707,7 +2839,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 52.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 52.
- [20
+ [23
 
 
 ]
@@ -2722,26 +2854,22 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9C81598476A3E658D0EBC59CE684C619;4749.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 12724 strings out of 493303
- 186826 string characters out of 3138836
- 306429 words of memory out of 3000000
- 15850 multiletter control sequences out of 15000+200000
+ 12741 strings out of 493303
+ 187144 string characters out of 3138836
+ 306490 words of memory out of 3000000
+ 15863 multiletter control sequences out of 15000+200000
  47429 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,51p,811b,717s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,18n,51p,811b,717s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/ncntrsbk/uncb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/ncntrsbk/uncr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ncn
 trsbk/uncri8a.pfb>
-Output written on main.pdf (25 pages, 724236 bytes).
+Output written on main.pdf (28 pages, 936437 bytes).
 PDF statistics:
- 630 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 598 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 688 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
+ 628 words of extra memory for PDF output out of 10000 (max. 10000000)
 
