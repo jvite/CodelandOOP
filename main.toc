@@ -1,4 +1,4 @@
-\select@language {spanish}
+\babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducci'on}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Problematica}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Ingenier\IeC {\'\i }a es el \IeC {\'a}rea con mayor tasa de abandono escolar universitario, particularmente aquellas vinculadas con la inform\IeC {\'a}tica}{1}{subsection.1.1.1}
