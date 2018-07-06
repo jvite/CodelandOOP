@@ -1,4 +1,4 @@
-\babel@toc {spanish}{}
+\select@language {spanish}
 \contentsline {chapter}{\numberline {1}Introducci'on}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Problematica}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Ingenier\IeC {\'\i }a es el \IeC {\'a}rea con mayor tasa de abandono escolar universitario, particularmente aquellas vinculadas con la inform\IeC {\'a}tica}{1}{subsection.1.1.1}
@@ -45,26 +45,4 @@
 \contentsline {section}{\numberline {4.4}Historias de usuario}{13}{section.4.4}
 \contentsline {section}{\numberline {4.5}Grafica de quemado}{15}{section.4.5}
 \contentsline {section}{\numberline {4.6}Maquetado}{16}{section.4.6}
-\contentsline {chapter}{\numberline {5}Plan de pruebas}{17}{chapter.5}
-\contentsline {section}{\numberline {5.1}Historial de versiones}{17}{section.5.1}
-\contentsline {section}{\numberline {5.2}Fases}{17}{section.5.2}
-\contentsline {section}{\numberline {5.3}Alcance de las pruebas}{17}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Elementos de prueba}{17}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Pruebas de regresi\IeC {\'o}n}{17}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Funcionalidades a no probar}{17}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Enfoque de pruebas}{17}{subsection.5.3.4}
-\contentsline {section}{\numberline {5.4}Criterios de aceptacion o rechazo}{17}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Criterios de aceptaci\IeC {\'o}n}{17}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Criterios de rechazo}{17}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Criterios de suspensi\IeC {\'o}n}{17}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}Criterios de reanudaci\IeC {\'o}n}{17}{subsection.5.4.4}
-\contentsline {section}{\numberline {5.5}Recursos}{17}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Requerimientos de entorno - Hardware}{17}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Requerimientos de entorno - Software}{17}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Herramientas requeridas}{17}{subsection.5.5.3}
-\contentsline {section}{\numberline {5.6}Planificacion y organizacion}{17}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Procedimientos}{17}{subsection.5.6.1}
-\contentsline {subsection}{\numberline {5.6.2}Cronograma}{17}{subsection.5.6.2}
-\contentsline {subsection}{\numberline {5.6.3}Dependencias y riesgos}{17}{subsection.5.6.3}
-\contentsline {section}{\numberline {5.7}Resultados de las pruebas}{17}{section.5.7}
-\contentsline {chapter}{\numberline {6}Resultados}{18}{chapter.6}
+\contentsline {chapter}{\numberline {5}Resultados}{17}{chapter.5}
