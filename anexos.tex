@@ -1,10 +1,10 @@
-\chapter*{Anexos}
-\includepdf[pages=-]{cdp}
-
+\chapter{Anexos}
+%\includepdf[pages=-]{cdp}
+\section{Pruebas}
 \begin{table}[H]\small
 \begin{tabular}{@{\extracolsep{\fill}} |p{9cm}|p{4cm}|p{2cm}|}
 \hline
-\textbf{1. Navegar entre las ventanas} & \textbf{Código del CP:} & \textbf{Si / No} \\ \hline
+\textbf{1. Navegar entre las ventanas} & \textbf{Código del CP:} 1& \textbf{Si / No} \\ \hline
 \multicolumn{3}{|p{15cm}|}{\textbf{Descripción:}
 
 Validar que e botón te lleve a la ventana que debería ir.} \\ \hline
@@ -28,3 +28,33 @@ Al presionar un elemento dentro de la ventana este te deberá llevar a la pantal
 \caption{Caso de prueba numero 1}
 \label{p1}
 \end{table}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[H]\small
+\begin{tabular}{@{\extracolsep{\fill}} |p{9cm}|p{4cm}|p{2cm}|}
+\hline
+\textbf{2. Cargar items por fases} & \textbf{Código del CP:} 2& \textbf{Si / No} \\ \hline
+\multicolumn{3}{|p{15cm}|}{\textbf{Descripción:}
+
+Se validará que se despliegue el contenido que se espera dependiendo de la fase que sea seleccionada.} \\ \hline
+\multicolumn{3}{|p{15cm}|}{Prerequisitos:
+
+Listado de temas por fase.} \\ \hline
+\multicolumn{3}{|p{15cm}|}{\textbf{Pasos:}
+\begin{itemize}
+	\item Seleccionar una fase.
+	\item Verificar que los items que se muestren pertenezcan a esa fase.
+	\item Regresar al menú.
+	\item Repetir los pasos anteriores para cada fase.
+\end{itemize}}\\ \hline
+\multicolumn{3}{|p{15cm}|}{\textbf{Resultado esperado:}
+
+Los temas mostrados pertenecen a la fase seleccionada.} \\ \hline
+\multicolumn{3}{|p{15cm}|}{\textbf{Resultado obtenido:}
+
+<Resultado esperado de la ejecucion de la prueba>} \\ \hline
+\hline
+\end{tabular}
+\caption{Caso de prueba numero 2}
+\label{p2}
+\end{table}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
