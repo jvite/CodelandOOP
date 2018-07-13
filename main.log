@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.5)  12 JUL 2018 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.9)  13 JUL 2018 09:55
 entering extended mode
 **./main.tex
 (main.tex
@@ -504,7 +504,7 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip43
 )
@@ -514,7 +514,7 @@ Package: babel 2016/04/23 3.9r The Babel package
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
@@ -534,10 +534,10 @@ Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 Package babel Info: Making ' an active character on input line 725.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
-Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count90
 )
@@ -553,16 +553,16 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \csq@tshold=\count96
 \csq@ltx@everypar=\toks18
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
-File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.cfg
 File: csquotes.cfg 
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -597,10 +597,10 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen106
@@ -616,7 +616,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\vmargin\vmargin.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\vmargin\vmargin.sty
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
@@ -629,7 +629,7 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@dima=\skip45
 \bigstrutjot=\dimen115
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
@@ -637,7 +637,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
@@ -680,7 +680,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count105
 \LT@p@ftn=\toks21
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
@@ -699,7 +699,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count108
 \calc@Cskip=\skip55
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
@@ -711,7 +711,7 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \AM@pagewidth=\dimen121
 \AM@pageheight=\dimen122
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box30
@@ -746,10 +746,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks27
 \@floatcapt=\box34
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip58
@@ -767,7 +767,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip70
 \JustifyingParindent=\skip71
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 \lst@mode=\count113
 \lst@gtempboxa=\box35
 \lst@token=\toks28
@@ -781,13 +781,13 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \lst@lineno=\count118
 \lst@maxwidth=\dimen131
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count119
 \lst@skipnumbers=\count120
 \lst@framebox=\box36
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
@@ -902,7 +902,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip72
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip73
 \bibsep=\skip74
@@ -967,7 +967,7 @@ File: t1pnc.fd 2001/06/04 font definitions for T1/pnc.
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count132
 \scratchdimen=\dimen136
@@ -999,7 +999,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+(C:\Users\Toño\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
@@ -1037,7 +1037,7 @@ LaTeX Info: Redefining \nameref on input line 33.
 
 \openout2 = `portada.aux'.
 
- (portada.tex <img/logo.png, id=195, 803.0pt x 963.6pt>
+ (portada.tex <img/logo.png, id=203, 803.0pt x 963.6pt>
 File: img/logo.png Graphic file (type png)
 
 <use img/logo.png>
@@ -1070,8 +1070,8 @@ Package babel Info: Redefining spanish shorthand "?
  [1
 
 
-{C:/Users/PROPIETARIO/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img
-/logo.png>])
+{C:/Users/Toño/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo.
+png>])
 LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/pnc/b/n' tried instead on input line 36.
  (main.toc
@@ -1346,7 +1346,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 38.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 38.
- <img/img1.png, id=336, 746.03719pt x 235.63031pt>
+ <img/img1.png, id=346, 746.03719pt x 235.63031pt>
 File: img/img1.png Graphic file (type png)
  <use img/img1.png>
 Package pdftex.def Info: img/img1.png used on input line 43.
@@ -2026,7 +2026,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 61.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 61.
- <img/cronograma.png, id=443, 791.95876pt x 221.32687pt>
+ <img/cronograma.png, id=453, 791.95876pt x 221.32687pt>
 File: img/cronograma.png Graphic file (type png)
 
 <use img/cronograma.png>
@@ -2053,20 +2053,20 @@ LaTeX Font Info:    Try loading font information for TS1+pnc on input line 71.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pnc.fd"
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 )
-<img/pregunta1.png, id=444, 372.64218pt x 242.40562pt>
+<img/pregunta1.png, id=454, 372.64218pt x 242.40562pt>
 File: img/pregunta1.png Graphic file (type png)
  <use img/pregunta1.png>
 Package pdftex.def Info: img/pregunta1.png used on input line 75.
 (pdftex.def)             Requested size: 223.58702pt x 145.44447pt.
 
-<img/pregunta21.png, id=445, 542.77782pt x 402.75468pt>
+<img/pregunta21.png, id=455, 542.77782pt x 402.75468pt>
 File: img/pregunta21.png Graphic file (type png)
 
 <use img/pregunta21.png>
 Package pdftex.def Info: img/pregunta21.png used on input line 84.
 (pdftex.def)             Requested size: 325.6692pt x 241.65466pt.
 
-<img/pregunta22.png, id=446, 541.27219pt x 395.22656pt>
+<img/pregunta22.png, id=456, 541.27219pt x 395.22656pt>
 File: img/pregunta22.png Graphic file (type png)
 
 <use img/pregunta22.png>
@@ -2097,7 +2097,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 95.
  [11 <./img/cronograma.png> <./img/pregunta1.png>]
-<img/pregunta3.png, id=452, 387.69844pt x 223.58531pt>
+<img/pregunta3.png, id=462, 387.69844pt x 223.58531pt>
 File: img/pregunta3.png Graphic file (type png)
  <use img/pregunta3.png>
 Package pdftex.def Info: img/pregunta3.png used on input line 100.
@@ -2215,7 +2215,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 244.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 244.
-<img/quemado.png, id=461, 520.94624pt x 368.87813pt>
+<img/quemado.png, id=471, 520.94624pt x 368.87813pt>
 File: img/quemado.png Graphic file (type png)
  <use img/quemado.png>
 Package pdftex.def Info: img/quemado.png used on input line 247.
@@ -2258,7 +2258,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 253.
- <img/pantallas1.png, id=467, 1925.1925pt x 1929.2075pt>
+ <img/pantallas1.png, id=477, 1925.1925pt x 1929.2075pt>
 File: img/pantallas1.png Graphic file (type png)
 
 <use img/pantallas1.png>
@@ -2331,13 +2331,13 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
-<img/ss1.jpeg, id=478, 722.7pt x 1284.8pt>
+<img/ss1.jpeg, id=488, 722.7pt x 1284.8pt>
 File: img/ss1.jpeg Graphic file (type jpg)
  <use img/ss1.jpeg>
 Package pdftex.def Info: img/ss1.jpeg used on input line 7.
 (pdftex.def)             Requested size: 216.81166pt x 385.44298pt.
 
-<img/ss2.jpeg, id=479, 722.7pt x 1284.8pt>
+<img/ss2.jpeg, id=489, 722.7pt x 1284.8pt>
 File: img/ss2.jpeg Graphic file (type jpg)
  <use img/ss2.jpeg>
 Package pdftex.def Info: img/ss2.jpeg used on input line 15.
@@ -2434,6 +2434,19 @@ Package babel Info: Redefining spanish shorthand "?
 \openout2 = `anexos.aux'.
 
  (anexos.tex
+Anexos 6.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 1.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 1.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 1.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 1.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand >>
@@ -2446,57 +2459,158 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 3.
-LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <9> not available
-(Font)              Font shape `T1/pnc/b/n' tried instead on input line 7.
 
-Overfull \hbox (36.95976pt too wide) in paragraph at lines 5--28
-[][] 
+Overfull \hbox (30.1135pt too wide) in alignment at lines 8--11
+ [] [] 
  []
 
 
-Overfull \hbox (36.95976pt too wide) in paragraph at lines 33--57
-[][] 
+Overfull \hbox (30.1135pt too wide) in alignment at lines 11--13
+ [] [] 
  []
 
 
-Overfull \hbox (36.95976pt too wide) in paragraph at lines 62--86
-[][] 
- []
-
-
-Overfull \hbox (36.95976pt too wide) in paragraph at lines 91--115
-[][] 
+Overfull \hbox (30.1135pt too wide) in alignment at lines 13--24
+ [] [] 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 24.
 [20
 
 
 ]
-Overfull \hbox (36.95976pt too wide) in paragraph at lines 120--143
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 24.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 24.
+ [21]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 25.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 25.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 25.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 25.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 25.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 25.
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <9> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 29.
+
+Overfull \hbox (36.95976pt too wide) in paragraph at lines 27--50
+[][] 
+ []
+
+
+Overfull \hbox (36.95976pt too wide) in paragraph at lines 55--79
+[][] 
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 81.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 81.
+[22]
+Overfull \hbox (36.95976pt too wide) in paragraph at lines 84--108
+[][] 
+ []
+
+
+Overfull \hbox (36.95976pt too wide) in paragraph at lines 113--137
+[][] 
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 139.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 139.
+[23]
+Overfull \hbox (36.95976pt too wide) in paragraph at lines 142--165
 [][] 
  []
 
@@ -2525,7 +2639,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 51.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 51.
- [21]
+ [24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (main.aux (portada.aux)
@@ -2537,27 +2651,27 @@ LaTeX Info: Redefining \% on input line 25.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B003085499548FD9159B9FDC2E3C9FE4;3176.
+(rerunfilecheck)             Checksum: E534B31AEA1EBD52A78AB5819575A2A9;3291.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12628 strings out of 493328
- 182820 string characters out of 3139107
- 307001 words of memory out of 3000000
- 15767 multiletter control sequences out of 15000+200000
+ 12642 strings out of 493328
+ 183842 string characters out of 3139125
+ 311282 words of memory out of 3000000
+ 15776 multiletter control sequences out of 15000+200000
  49363 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,51p,811b,715s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,13n,51p,1254b,715s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/ncntrsbk/uncb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/ncntrsbk/uncr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ncn
 trsbk/uncri8a.pfb>
-Output written on main.pdf (26 pages, 796673 bytes).
+Output written on main.pdf (29 pages, 803374 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 118 named destinations out of 1000 (max. 500000)
- 440 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 566 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
+ 456 words of extra memory for PDF output out of 10000 (max. 10000000)
 

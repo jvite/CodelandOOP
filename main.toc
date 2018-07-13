@@ -46,4 +46,6 @@
 \contentsline {section}{\numberline {4.5}Grafica de quemado}{15}{section.4.5}
 \contentsline {section}{\numberline {4.6}Maquetado}{16}{section.4.6}
 \contentsline {chapter}{\numberline {5}Resultados}{17}{chapter.5}
-\contentsline {section}{\numberline {5.1}Pruebas}{20}{section.5.1}
+\contentsline {chapter}{\numberline {6}Anexos}{20}{chapter.6}
+\contentsline {section}{\numberline {6.1}Plan de pruebas}{20}{section.6.1}
+\contentsline {section}{\numberline {6.2}Casos de pruebas}{23}{section.6.2}
