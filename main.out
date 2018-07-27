@@ -1,50 +1,51 @@
 \BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Problematica}{chapter.1}% 2
-\BOOKMARK [2][-]{subsection.1.1.1}{Ingenier\355a es el \341rea con mayor tasa de abandono escolar universitario, particularmente aquellas vinculadas con la inform\341tica}{section.1.1}% 3
-\BOOKMARK [2][-]{subsection.1.1.2}{Problemas del aprendizaje de la programaci\363n orientada a objetos}{section.1.1}% 4
-\BOOKMARK [1][-]{section.1.2}{Objetivo general}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.3}{Objetivos espec\355ficos}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.4}{Justificaci\363n}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.4.1}{Las TIC en la educaci\363n}{section.1.4}% 8
-\BOOKMARK [2][-]{subsection.1.4.2}{M-Learning en la educaci\363n}{section.1.4}% 9
-\BOOKMARK [2][-]{subsection.1.4.3}{La importancia de la programaci\363n orientada a objetos}{section.1.4}% 10
-\BOOKMARK [0][-]{chapter.2}{Estado del arte}{}% 11
-\BOOKMARK [0][-]{chapter.3}{Marco te\363rico}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Programaci\363n Orientada a Objetos}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.2}{Programa}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.3}{Tipo de dato}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.4}{Objeto}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.5}{Clase}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.6}{Encapsulaci\363n}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.7}{Abstracci\363n}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.8}{Objetos}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.9}{Polimorfismo}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.10}{Herencia}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.11}{Atributos}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.12}{M\351todos}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.13}{Algoritmo}{chapter.3}% 25
-\BOOKMARK [1][-]{section.3.14}{Variable}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.15}{Constante}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.16}{Par\341metros formales}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.17}{Java}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.18}{Android}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.19}{SQLite}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.20}{Material Design}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.21}{Git}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.22}{UML}{chapter.3}% 34
-\BOOKMARK [1][-]{section.3.23}{Android Studio}{chapter.3}% 35
-\BOOKMARK [0][-]{chapter.4}{Desarrollo}{}% 36
-\BOOKMARK [1][-]{section.4.1}{Recursos}{chapter.4}% 37
-\BOOKMARK [2][-]{subsection.4.1.1}{Recursos humanos}{section.4.1}% 38
-\BOOKMARK [2][-]{subsection.4.1.2}{Recursos materiales}{section.4.1}% 39
-\BOOKMARK [2][-]{subsection.4.1.3}{Recursos tecnol\363gicos}{section.4.1}% 40
-\BOOKMARK [2][-]{subsection.4.1.4}{Recursos administrativos}{section.4.1}% 41
-\BOOKMARK [1][-]{section.4.2}{Diagrama de Gantt}{chapter.4}% 42
-\BOOKMARK [1][-]{section.4.3}{Encuesta}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.4}{Historias de usuario}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.5}{Grafica de quemado}{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.6}{Maquetado}{chapter.4}% 46
-\BOOKMARK [0][-]{chapter.5}{Resultados}{}% 47
-\BOOKMARK [0][-]{chapter.6}{Anexos}{}% 48
-\BOOKMARK [1][-]{section.6.1}{Plan de pruebas}{chapter.6}% 49
-\BOOKMARK [1][-]{section.6.2}{Casos de pruebas}{chapter.6}% 50
+\BOOKMARK [1][-]{section.1.1}{Problem\341tica}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Objetivo general}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Objetivos espec\355ficos}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Justificaci\363n}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{Las TIC en la educaci\363n}{section.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.4.2}{M-Learning en la educaci\363n}{section.1.4}% 7
+\BOOKMARK [2][-]{subsection.1.4.3}{La importancia de la programaci\363n orientada a objetos}{section.1.4}% 8
+\BOOKMARK [0][-]{chapter.2}{Estado del arte}{}% 9
+\BOOKMARK [0][-]{chapter.3}{Marco te\363rico}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Programaci\363n Orientada a Objetos}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.1.1}{Objeto}{section.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.1.2}{Clase}{section.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.1.3}{Encapsulaci\363n}{section.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.1.4}{Abstracci\363n}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.5}{Objetos}{section.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.1.6}{Polimorfismo}{section.3.1}% 17
+\BOOKMARK [2][-]{subsection.3.1.7}{Herencia}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.8}{Atributos}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.9}{M\351todos}{section.3.1}% 20
+\BOOKMARK [1][-]{section.3.2}{Programaci\363n}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.2.1}{Programa}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.2}{Tipo de dato}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.3}{Algoritmo}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.4}{Variable}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.5}{Constante}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.6}{Par\341metros formales}{section.3.2}% 27
+\BOOKMARK [1][-]{section.3.3}{Herramientas de Desarrollo}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.1}{Java}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.2}{Android}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.3}{SQLite}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.4}{Git}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.5}{Android Studio}{section.3.3}% 33
+\BOOKMARK [1][-]{section.3.4}{Herramientas de Dise\361o}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.4.1}{UML}{section.3.4}% 35
+\BOOKMARK [2][-]{subsection.3.4.2}{Material Design}{section.3.4}% 36
+\BOOKMARK [0][-]{chapter.4}{Desarrollo}{}% 37
+\BOOKMARK [1][-]{section.4.1}{Planeaci\363n}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.1.1}{Diagrama de Gantt}{section.4.1}% 39
+\BOOKMARK [2][-]{subsection.4.1.2}{Recursos humanos}{section.4.1}% 40
+\BOOKMARK [2][-]{subsection.4.1.3}{Recursos materiales}{section.4.1}% 41
+\BOOKMARK [2][-]{subsection.4.1.4}{Recursos tecnol\363gicos}{section.4.1}% 42
+\BOOKMARK [2][-]{subsection.4.1.5}{Recursos administrativos}{section.4.1}% 43
+\BOOKMARK [1][-]{section.4.2}{Resultados de Encuesta aplicada}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.3}{Historias de usuario}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.4}{Grafica de quemado}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.5}{Maquetado}{chapter.4}% 47
+\BOOKMARK [0][-]{chapter.5}{Resultados}{}% 48
+\BOOKMARK [0][-]{chapter.6}{Anexos}{}% 49
+\BOOKMARK [1][-]{section.6.1}{Plan de pruebas}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.2}{Casos de pruebas}{chapter.6}% 51
