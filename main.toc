@@ -50,6 +50,8 @@
 \contentsline {section}{\numberline {4.5}Grafica de quemado}{16}{section.4.5}
 \contentsline {section}{\numberline {4.6}Maquetado}{17}{section.4.6}
 \contentsline {chapter}{\numberline {5}Resultados}{18}{chapter.5}
-\contentsline {chapter}{\numberline {6}Anexos}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Plan de pruebas}{21}{section.6.1}
-\contentsline {section}{\numberline {6.2}Casos de pruebas}{24}{section.6.2}
+\contentsline {section}{\numberline {5.1}Conclusiones Personales}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Conclusi\IeC {\'o}n General}{20}{section.5.2}
+\contentsline {chapter}{\numberline {6}Anexos}{22}{chapter.6}
+\contentsline {section}{\numberline {6.1}Plan de pruebas}{22}{section.6.1}
+\contentsline {section}{\numberline {6.2}Casos de pruebas}{25}{section.6.2}
